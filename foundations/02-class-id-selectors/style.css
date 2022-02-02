@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgba(255, 0, 0, 0.4);
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+.but-different {
+    font-size: 24px;
+}
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+#four {
+    background-color: rgba(13, 231, 13, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
